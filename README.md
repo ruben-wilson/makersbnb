@@ -2,8 +2,8 @@
 
 This repo contains the seed codebase for the MakersBnB project in Ruby (using Sinatra and RSpec).
 
-Someone in your team should fork this seed repo to their Github account. Everyone in the team should then clone this fork to their local machine to work on it.
-
+this was built with a team of 4 during the makersbootcamp. we used this trello board to manage our agile design process.
+https://trello.com/b/idP8960W/team-fire-%F0%9F%94%A5
 ## Setup
 
 ```bash
